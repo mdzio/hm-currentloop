@@ -145,6 +145,11 @@ Nach jeder Messung wird über die LED des Arduino Nano ein Status ausgegeben:
 
 Debug-Meldungen werden über die serielle Schnittstelle bzw. dem USB-Port gesendet. In *PlatformIO* können über den *Serial Monitor* die Meldungen angezeigt werden.
 
+## Ideen
+
+Folgende Ideen für Erweiterungen und Anpassungen existieren bereits:
+* Erhöhung des Shunt-Widerstandes von 47 Ohm auf 150 Ohm und Umstellung der ADC-Referenzspannung von 1,1 V auf 3,3 V. Dies verringert das Rauschen des Messwertes. Allerdings sollte vorab geprüft werden, ob der eingesetzte Sensor mit der verringerten Restspannung (ca. 20V) noch sicher betrieben werden kann.
+
 ## Unterstützung
 
 Fragen zum Projekt können im [HomeMatic-Forum](https://homematic-forum.de) gestellt werden.
