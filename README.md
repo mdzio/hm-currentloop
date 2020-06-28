@@ -14,7 +14,7 @@ In der CCU werden durch ein Programm die auf Kanal 3 des HM-MOD-EM-8Bit angelief
 * HomeMatic 8-bit Sendemodul (HM-MOD-EM-8Bit)
 * 24V-Netzteil, min. 200 mA
 * Diode 1A (z.B. 1N4004)
-* Elektrolytkondensator 220 µF / 35 V
+* Elektrolytkondensator 100 µF / 35 V
 * 3 Stk. Kondensatoren 100 nF
 * Spannungsregler 7812
 * 2 Stk. 2-polige Schraubklemmen
